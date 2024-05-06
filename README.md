@@ -1,1 +1,1 @@
-# practica-github-clase
+git push https://github.com/user/project main
